@@ -1,17 +1,23 @@
 {
-  "data": {
-  	"title": "The Weekend",
-  	"details": "Two days off from labor, with no constraints on how time is used, though typically dedicated to family, friends and personal wellbeing."
-  	"status": "in negotiation"
-  	"where": [
-  	  {
-  	  	"countries": ["United States", "Canada"]
-  	  }
-    ]
-  	"when": [
-  	  {
-  	  	"days": ["Saturday", "Sunday"]
-  	  }
-  	]
-  }
+   "data":{
+      "title":"The Weekend",
+      "details":"Two days off from labor, with no constraints on how time is used, though typically dedicated to family, friends and personal well-being.",
+      "status":"in negotiation",
+      "where":[
+         {
+            "countries":[
+               "United States",
+               "Canada"
+            ]
+         }
+      ],
+      "when":[
+         {
+            "days":[
+               "Saturday",
+               "Sunday"
+            ]
+         }
+      ]
+   }
 }
